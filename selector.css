@@ -1,0 +1,103 @@
+#up{
+    margin: auto;
+    border: 1px solid black ;
+    padding: 10px;
+    max-width: 600px;
+    padding-left: 20px;
+}
+.basic{
+    background-color:lightgray;
+    padding: 20px;
+    text-align: center;
+
+}
+.navi{
+    background-color:black;
+    margin-top: -20px;
+}
+.header {
+    padding: 30px;
+    text-align: center;
+    margin-top: -40px;
+    margin: -40px;
+}
+.header nav ul {
+    color: black;
+    padding: 20px;
+}
+.header nav ul li {
+    display: inline;
+    margin:  10px;
+}
+.header nav ul li a {
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+}
+.univ{
+    background-color: lightgrey;
+    padding: 5px;
+}
+.type{
+    background-color: grey;
+    padding: 5px;
+    margin-top: 10px;
+}
+.type p{
+    color: brown;
+}
+.cls{
+    background-color: lightgrey;
+    padding: 5px;
+    margin-top:10px;
+}
+#id{
+    background-color: grey;
+    padding: 5px;
+    margin-top: 10px;
+}
+.att{
+    background-color: lightgrey;
+    padding: 5px;
+    margin-top:10px;
+}
+.desc{
+    background-color: grey;
+    padding: 5px;
+    margin-top: 10px;
+}
+div h5{
+    color: yellowgreen;
+}
+.child{
+    background-color: lightgrey;
+    padding: 5px;
+    margin-top: 10px;
+}
+ul>li{
+    /* background-color: whitesmoke; */
+    margin-right: 400px;
+    font-style: oblique;
+}
+.adj{
+    background-color: grey;
+    padding: 5px;
+    margin-top: 10px;
+}
+q+h6{
+    font-style: italic;
+    font-weight: bold;
+    color: #000;
+}
+.sib{
+    background-color:lightgray;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.foot{
+    text-align: center;
+    background-color:lightslategray;
+    padding: 5px;
+}
+
+

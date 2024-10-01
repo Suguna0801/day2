@@ -1,0 +1,42 @@
+body{
+    margin: auto;
+    border: 1px solid black ;
+    padding: 10px;
+    max-width: 600px;
+    /* max-height: 1000px; */
+}
+.head{
+    background-color:lightblue;
+    padding: 20PX;
+    margin-top: 0;
+    text-align: center;
+}
+.rel{
+    position: relative;
+    border: 3px solid black;
+    padding-top: 200px;
+    background-color: lightgrey;
+    margin-left: 200px;
+    margin-right: 150px;
+    /* padding-right: 50px; */
+}
+.abs{
+    position: absolute;
+    padding: 10px;
+    background-color: green;
+    top: 25px;
+    left:25px;
+}
+.fix{
+    position:  fixed;
+    padding: 10px;
+    background-color:blue;
+    left: 490px;
+    top: 340px;
+}
+.foot{
+    text-align: center;
+    margin-top: 150px;
+    background-color:lightblue;
+    padding: 5px;
+}
